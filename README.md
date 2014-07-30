@@ -1,6 +1,6 @@
 # hello-world
 
-This is a new description for this file.
+This is a newer description for this file. And it's awesome.
 
 ## Contributing
 Take a look at `CONTRIBUTING.md` for instructions to contirbute.
