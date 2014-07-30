@@ -1,4 +1,6 @@
-hello-world
-===========
+# hello-world
 
 Sample repo from github training
+
+Hi!
+
