@@ -1,6 +1,6 @@
 # hello-world
 
-Sample repo from github training
+This is a new description for this file.
 
 ## Contributing
 Take a look at `CONTRIBUTING.md` for instructions to contirbute.
